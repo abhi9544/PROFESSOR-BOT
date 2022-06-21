@@ -100,15 +100,15 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('💥 𝙾𝚆𝙽𝙴𝚁 💥', url='https://t.me/NJaNu_yir'), 
+            InlineKeyboardButton('🔰 𝙾𝚆𝙽𝙴𝚁 🔰', url='https://t.me/NJaNu_yir'), 
 
-            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/Hd_moviesmalyalam')
+            InlineKeyboardButton('🔔 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🔔', url='https://t.me/Hd_moviesmalyalam')
 
             ],[      
 
-            InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', callback_data='help'),
+            InlineKeyboardButton('⚠️ 𝙷𝙴𝙻𝙿 ⚠️', callback_data='help'),
 
-            InlineKeyboardButton('💫 𝙰𝙱𝙾𝚄𝚃 💫', callback_data='about')
+            InlineKeyboardButton('🔵 𝙰𝙱𝙾𝚄𝚃 🔵', callback_data='about')
 
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
