@@ -5,7 +5,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙼𝚈 𝙷𝙴𝙻𝙿, 𝙸𝚃𝚂 𝙹𝚄𝚂𝚃 𝚂𝙸𝙼𝙿𝙻𝙴."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/NJaNu_yir>Abhi</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/NJaNu_yir>𝙰𝙱𝙷𝙸</a>
 ✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Hd_moviesmalyalam>𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
